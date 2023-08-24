@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ragha/Desktop/New folder (2)/Visualizer-main/app/src/main/res/layout/activity_face_filters.xml" value="0.12604166666666666" />
+        <entry key="..\:/Users/ragha/Desktop/New folder (2)/Visualizer-main/app/src/main/res/layout/activity_fun_mode.xml" value="0.12604166666666666" />
+        <entry key="..\:/Users/ragha/Desktop/New folder (2)/Visualizer-main/app/src/main/res/layout/activity_main.xml" value="0.125" />
+        <entry key="..\:/Users/ragha/Desktop/New folder (2)/Visualizer-main/app/src/main/res/layout/activity_object_placer.xml" value="0.25" />
+        <entry key="..\:/Users/ragha/Desktop/New folder (2)/Visualizer-main/app/src/main/res/layout/activity_splash_screen.xml" value="0.12604166666666666" />
+        <entry key="..\:/Users/ragha/Desktop/New folder (2)/Visualizer-main/app/src/main/res/layout/layout_list.xml" value="0.12604166666666666" />
+        <entry key="..\:/Users/ragha/Desktop/New folder (2)/Visualizer-main/app/src/main/res/layout/layout_listfilter.xml" value="0.12604166666666666" />
+        <entry key="..\:/Users/ragha/Desktop/New folder (2)/Visualizer-main/app/src/main/res/layout/layout_listitem.xml" value="0.12604166666666666" />
+        <entry key="..\:/Users/ragha/Desktop/New folder (2)/Visualizer-main/app/src/main/res/layout/popupend.xml" value="0.12604166666666666" />
+        <entry key="..\:/Users/ragha/Desktop/New folder (2)/Visualizer-main/app/src/main/res/layout/popupstart.xml" value="0.12604166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
